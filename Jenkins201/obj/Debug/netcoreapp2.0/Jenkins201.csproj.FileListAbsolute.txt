@@ -1,0 +1,11 @@
+C:\Users\M1039139\Documents\Visual Studio 2017\Projects\Jenkins201\Jenkins201\bin\Debug\netcoreapp2.0\Jenkins201.deps.json
+C:\Users\M1039139\Documents\Visual Studio 2017\Projects\Jenkins201\Jenkins201\bin\Debug\netcoreapp2.0\Jenkins201.runtimeconfig.json
+C:\Users\M1039139\Documents\Visual Studio 2017\Projects\Jenkins201\Jenkins201\bin\Debug\netcoreapp2.0\Jenkins201.runtimeconfig.dev.json
+C:\Users\M1039139\Documents\Visual Studio 2017\Projects\Jenkins201\Jenkins201\bin\Debug\netcoreapp2.0\Jenkins201.dll
+C:\Users\M1039139\Documents\Visual Studio 2017\Projects\Jenkins201\Jenkins201\bin\Debug\netcoreapp2.0\Jenkins201.pdb
+C:\Users\M1039139\Documents\Visual Studio 2017\Projects\Jenkins201\Jenkins201\obj\Debug\netcoreapp2.0\Jenkins201.csprojResolveAssemblyReference.cache
+C:\Users\M1039139\Documents\Visual Studio 2017\Projects\Jenkins201\Jenkins201\obj\Debug\netcoreapp2.0\Jenkins201.csproj.CoreCompileInputs.cache
+C:\Users\M1039139\Documents\Visual Studio 2017\Projects\Jenkins201\Jenkins201\obj\Debug\netcoreapp2.0\Jenkins201.AssemblyInfoInputs.cache
+C:\Users\M1039139\Documents\Visual Studio 2017\Projects\Jenkins201\Jenkins201\obj\Debug\netcoreapp2.0\Jenkins201.AssemblyInfo.cs
+C:\Users\M1039139\Documents\Visual Studio 2017\Projects\Jenkins201\Jenkins201\obj\Debug\netcoreapp2.0\Jenkins201.dll
+C:\Users\M1039139\Documents\Visual Studio 2017\Projects\Jenkins201\Jenkins201\obj\Debug\netcoreapp2.0\Jenkins201.pdb
