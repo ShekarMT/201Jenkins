@@ -1,0 +1,12 @@
+C:\Users\M1039139\Documents\Visual Studio 2017\Projects\Jenkins201\Jenkins201
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=Jenkins201
+--content-root=C:\Users\M1039139\Documents\Visual Studio 2017\Projects\Jenkins201\Jenkins201
+--file=C:\Users\M1039139\Documents\Visual Studio 2017\Projects\Jenkins201\Jenkins201\Pages\About.cshtml
+--file=C:\Users\M1039139\Documents\Visual Studio 2017\Projects\Jenkins201\Jenkins201\Pages\Contact.cshtml
+--file=C:\Users\M1039139\Documents\Visual Studio 2017\Projects\Jenkins201\Jenkins201\Pages\Error.cshtml
+--file=C:\Users\M1039139\Documents\Visual Studio 2017\Projects\Jenkins201\Jenkins201\Pages\Index.cshtml
+--file=C:\Users\M1039139\Documents\Visual Studio 2017\Projects\Jenkins201\Jenkins201\Pages\_Layout.cshtml
+--file=C:\Users\M1039139\Documents\Visual Studio 2017\Projects\Jenkins201\Jenkins201\Pages\_ValidationScriptsPartial.cshtml
+--file=C:\Users\M1039139\Documents\Visual Studio 2017\Projects\Jenkins201\Jenkins201\Pages\_ViewImports.cshtml
+--file=C:\Users\M1039139\Documents\Visual Studio 2017\Projects\Jenkins201\Jenkins201\Pages\_ViewStart.cshtml
